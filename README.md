@@ -8,4 +8,4 @@ The course project focuses on implementing the K-Nearest Neighbors (KNN) algorit
   - Project 2 - KNN parallelized with OpenMP
   - Project 3 - KNN parallelizad with MPI
 
-The objective is not to achieve the best performance with the KNN algorithm (and indeed, they don't!), but to practice parallelization concepts.
+The objective is not to achieve the best performance with the KNN algorithm (and indeed, they don't!), but to practice some parallelization concepts.
