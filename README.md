@@ -1,4 +1,4 @@
-# High_Performance_Programming
+# high-performance-programming
 
 High Performance Programming course repository.
 
